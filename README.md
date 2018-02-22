@@ -2,7 +2,7 @@
 Were you like me and got a pair of wireless earbuds so you _finally_ run out of
 excues to skip the gym?
 
-Then you realize that the wire was _wayy_too long, and that there was no way
+Then you realize that the wire was *way* too long, and that there was no way
 that you could run with that!
 
 So instead of tying a knot and going to the gym, I opted to stay inside in my
