@@ -5,8 +5,8 @@ $fn = 100;
 // User Parameters
 
 wire_diameter = 2;
-vertical_padding = .5;
-horizontal_padding = .5;
+vertical_padding = 1;
+horizontal_padding = .75;
 pinch_height = 1;
 pinch_length = 1.7;
 
